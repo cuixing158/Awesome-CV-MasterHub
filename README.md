@@ -14,7 +14,7 @@ A paper list of some recent Computer Vision(CV) works. If you find some ignored 
 >
 > You can click the 'Watch' button to receive daily email notifications.
 
-Last update: 2025-02-15
+Last update: 2025-02-16
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ Last update: 2025-02-15
 - [Video-Classification](./doc/Video-Classification.md)
 - [Action-Recognition](./doc/Action-Recognition.md)
 - [Visual-Object-Tracking](./doc/Visual-Object-Tracking.md)
-- [Object-ReIdentification](./doc/Object-ReIdentification.md)
+- [Person-ReIdentification](./doc/Person-ReIdentification.md)
 - [Vision-LLMs](./doc/Vision-LLMs.md)
 - [Gesture-Recognition](./doc/Gesture-Recognition.md)
 - [OCR](./doc/OCR.md)

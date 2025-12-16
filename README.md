@@ -14,7 +14,7 @@ A paper list of some recent Computer Vision(CV) works. If you find some ignored 
 >
 > You can click the 'Watch' button to receive daily email notifications.
 
-Last update: 2025-12-16
+Last update: 2025-12-17
 
 ## Table of Contents
 
